@@ -1,0 +1,16 @@
+{
+  "name": "basics-node",
+  "version": "1.0.0",
+  "description": "simple Node.js begineer tutorial",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "author": "Balaji",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13"
+  }
+}

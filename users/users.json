@@ -1,0 +1,23 @@
+{
+    "users" : [{
+        "name": "Balaji",
+        "age": 22,
+        "city":"Tirupur"
+    },{
+        "name": "Raghul",
+        "age": 25,
+        "city":"coimbatore"
+    },{
+        "name": "Gowtham Menon",
+        "age": 28,
+        "city": "Tirupur"
+    },{
+        "name": "Krisha kumar",
+        "age": 30,
+        "city":"Tirupur"}
+        ,{
+        "name": "Abilash",
+        "age": 26,
+        "city":"Trichy"
+    }]
+}
